@@ -3,6 +3,7 @@
 - Paso 1 Abrir powershell
 - Paso 2 Ingresar a la ruata dodne se tienen las imagenes
 - Paso 3 Modificar el siguiente script
+    - Paso 3.1 modificar la linea "$counter$extension" con el nombre deseado counter corresponde al contador, la extension es si la imagen es .png o .jpg, etc
 
 ```powershell
 $path = "\\"
