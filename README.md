@@ -30,3 +30,5 @@ foreach ($file in $files) {
     }
 }
 ```
+
+- Paso 4 copiar y pegar el script en powershell y darle enter
